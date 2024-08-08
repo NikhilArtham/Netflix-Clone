@@ -5,7 +5,6 @@ This project is a clone of Netflix's user interface created using HTML, CSS, and
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 
 
 ## Features
@@ -22,11 +21,5 @@ This project is a clone of Netflix's user interface created using HTML, CSS, and
 - CSS3
 - JavaScript
 
-
-## Usage
-
-- Browse through the homepage to see the movie listings.
-- Click on any movie thumbnail to see more details (if implemented).
-- Use the navigation bar to switch between different sections (if implemented).
 
 
